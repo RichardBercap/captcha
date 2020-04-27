@@ -1,0 +1,17 @@
+{
+    "name": "bercap/easy_captcha",
+    "description": "A package to easy generate a code for captcha",
+    "authors": [
+        {
+            "name": "Richard Berna",
+            "email": "bercap211@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+            "Captcha\\": "src/"
+        }
+    }
+}
